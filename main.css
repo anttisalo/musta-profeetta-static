@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+header {
+  width: 100%;
+  height: 100vh;
+  background-image: url(images/antenni_iltahämärässä.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#myName {
+  color: white;
+  font-size: 6rem;
+  font-family: Georgia, serif;
+  font-weight: 700;
+  margin: 0;
+}
